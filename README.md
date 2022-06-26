@@ -8,4 +8,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmerz&layout=compact)](https://github.com/Harmerz/Harmerz)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harmerz)](https://github.com/Harmerz/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harmerz)](https://github.com/anuraghazra/github-readme-stats)
