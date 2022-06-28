@@ -7,6 +7,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmerz&layout=compact)](https://github.com/Harmerz/Harmerz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmerz&layout=compact&theme=algolia)](https://github.com/Harmerz/Harmerz)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harmerz&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harmerz&show_icons=true&count_private=true&theme=algolia)
