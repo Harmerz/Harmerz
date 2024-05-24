@@ -11,5 +11,3 @@
 <p align="left"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Harmerz&theme=Javascript-dark&fire=EB0000&border=F0DB4F)](https://git.io/streak-stats"/>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harmerz&show_icons=true&count_private=true&theme=algolia)
