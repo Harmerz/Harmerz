@@ -8,6 +8,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmerz&layout=compact&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harmerz&theme=Javascript-dark&fire=EB0000&border=F0DB4F)](https://git.io/streak-stats"/>
-</p>
